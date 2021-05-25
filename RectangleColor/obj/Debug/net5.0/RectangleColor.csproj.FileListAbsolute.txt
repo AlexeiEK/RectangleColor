@@ -1,0 +1,16 @@
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.exe
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.deps.json
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.runtimeconfig.json
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.runtimeconfig.dev.json
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.dll
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\ref\RectangleColor.dll
+D:\Programming\source\repos\RectangleColor\RectangleColor\bin\Debug\net5.0\RectangleColor.pdb
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.csprojAssemblyReference.cache
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.AssemblyInfoInputs.cache
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.AssemblyInfo.cs
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.csproj.CoreCompileInputs.cache
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.dll
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\ref\RectangleColor.dll
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.pdb
+D:\Programming\source\repos\RectangleColor\RectangleColor\obj\Debug\net5.0\RectangleColor.genruntimeconfig.cache

@@ -19,8 +19,8 @@ namespace ConsoleApp1
             do
             {
                 Console.Write("Ввод цвета символа прямоугольника: ");
-                var color = Console.ReadLine();
-                color = color.ToUpper();
+                var color = Console.ReadLine().ToUpper();
+                //color = color.ToUpper();
                 flag = 1;
                 switch (color)
                 {
